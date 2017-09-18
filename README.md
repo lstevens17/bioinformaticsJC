@@ -1,4 +1,4 @@
-# Bionformatics JC @ Ashworth Lab
+# Bionformatics JC @ Ashworth Labs
 Slides, notes and schedules for BJC.
 
 When: **Every second Tuesday 1pm**
