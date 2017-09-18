@@ -1,2 +1,4 @@
-# bioinformaticsJC
-Slides, notes and schedule for Ashworth's Bioinformatics JC 
+# Bionformatics JC @ Ashworth Lab 
+Slides, notes and schedule for BJC. 
+
+
